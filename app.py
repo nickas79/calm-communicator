@@ -1,0 +1,1 @@
+print('🪶 Calm Communicator MVP placeholder app — ready for Streamlit deployment.')
