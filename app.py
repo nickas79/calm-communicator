@@ -167,3 +167,9 @@ if st.session_state.history:
         st.code(item["original"])
         st.markdown("**Rewritten**")
         st.code(item["rewritten"])
+
+st.markdown("---")
+st.subheader("💬 Share your thoughts")
+st.markdown(
+    "Have feedback or ideas? [Join the discussion on GitHub!](https://github.com/nickas79/calm-communicator/discussions)"
+)
